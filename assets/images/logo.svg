@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" width="320" height="80">
+  <!-- Geometric Icon -->
+  <g transform="translate(10, 10)">
+    <polygon points="20,0 40,35 0,35" fill="#ffffff" />
+    <polygon points="35,20 55,55 15,55" fill="#e2a8ac" opacity="0.8" />
+    <polygon points="5,20 25,55 -15,55" fill="#ffffff" opacity="0.9" />
+  </g>
+  <!-- Brand Text -->
+  <text x="75" y="38" font-family="'Montserrat', sans-serif" font-weight="800" font-size="22" fill="#ffffff" letter-spacing="1">MANAGEMENT</text>
+  <text x="75" y="58" font-family="'Montserrat', sans-serif" font-weight="600" font-size="14" fill="#e2a8ac" letter-spacing="3">GROUP S.A.</text>
+</svg>
